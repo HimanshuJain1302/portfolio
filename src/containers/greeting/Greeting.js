@@ -29,8 +29,14 @@ export default function Greeting(props) {
                 {greeting.subTitle}
               </p>
               <SocialMedia theme={theme} />
-              <div className="portfolio-repo-btn-div">
-                
+              <div className="utton-greeting-div">
+                <Button
+                  text="My Resume"
+                  newTab={true}
+                  href={greeting.resumeLink}
+                  theme={theme}
+                  className="utton-greeting"
+                />
               </div>
               {/* <div className="button-greeting-div">
               <Button text="Contact me" href="#contact" />
