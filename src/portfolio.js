@@ -20,7 +20,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1V6RmjkRYGTiaSCgjvB5bML83ltMifhSS/view?usp=sharing",
+    "https://drive.google.com/drive/folders/1GNVOF4LNsnxSiucQxKNzhhof9VIpYixy?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   githubProfile: "https://github.com/HimanshuJain1302",
 };
